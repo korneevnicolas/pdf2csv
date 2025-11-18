@@ -1,0 +1,15 @@
+# Minimum requirements (recommended)
+pdfplumber>=0.9.0
+
+# Optional: For maximum accuracy
+# camelot-py>=0.11.0
+# opencv-python-headless>=4.5.0
+
+# Optional: Other tested libraries
+# tabula-py>=2.5.0
+# pypdf>=3.0.0
+# pdfminer.six>=20221105
+# pymupdf>=1.23.0
+
+# For creating sample PDFs
+reportlab>=4.0.0
