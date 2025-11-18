@@ -36,7 +36,7 @@ env/
 sample_table.pdf
 output/
 *.csv
-*.txt
+output/*.txt
 
 # OS
 .DS_Store
